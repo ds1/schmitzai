@@ -25,10 +25,10 @@ const CaseStudyTitle = styled.h2`
 `;
 
 const caseStudies = [
-  { id: 1, title: "Magic Leap", image: "/path-to-magic-leap-image.jpg" },
-  { id: 2, title: "Meta", image: "/path-to-meta-image.jpg" },
-  { id: 3, title: "Meta", image: "/path-to-another-meta-image.jpg" },
-  { id: 4, title: "Intel", image: "/path-to-intel-image.jpg" },
+  { id: 1, title: "Magic Leap", image: "/images/magic-leap-thumbnail.jpg" },
+  { id: 2, title: "Meta", image: "/images/meta-thumbnail.jpg" },
+  { id: 3, title: "Another Meta Project", image: "/images/another-meta-thumbnail.jpg" },
+  { id: 4, title: "Intel", image: "/images/intel-thumbnail.jpg" },
 ];
 
 const CaseStudies = () => {
