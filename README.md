@@ -1,7 +1,10 @@
 # schmitzai
 Repo for custom content on schmitz.ai
 
-This project is a React-based portfolio website for Dan Schmitz, an Interaction Designer with extensive experience in UX/UI design and technology commercialization.
+This project is a React-based portfolio website for Dan Schmitz, a product designer/prototyper with extensive experience in UX design and technology commercialization.
+
+# WORK IN PROGRESS 
+# UPDATED JULY 30, 2024
 
 ## Project Overview
 
